@@ -92,7 +92,11 @@ class TruthfulQA_CSV_Processor_my:
     
 
 
+<<<<<<< HEAD
 class MMLU_CSV_Processor_my:
+=======
+class MMLU_CSV_Processor:
+>>>>>>> fd3f0875f31ff093c131198d4aab9f530cf5ca5d
     def __init__(self, folder_name, file_name):
         '''
         Constructor
