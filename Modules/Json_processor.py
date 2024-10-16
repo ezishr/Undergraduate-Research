@@ -1,7 +1,7 @@
 from Packages import *
 
 
-class ARC_Challenge_Processor:
+class ARC_Challenge_Processor_my:
     def __init__(self, folder_name, file_name):
         self.folder_name = folder_name
         self.file_name = file_name
@@ -24,7 +24,7 @@ class ARC_Challenge_Processor:
         # Convert endings to output col
         for idx in range(len(main_df)-1):
             input = main_df.iloc[idx]['question']
-            main_df.at[idx, 'input_question'] = input['stem']
+            main_df.at[idx, 'input'] = input['stem']
             temp_choices = input['choices']
             choice_options = ''
             for choice in temp_choices:
@@ -33,11 +33,12 @@ class ARC_Challenge_Processor:
             main_df.at[idx, 'choices'] = choice_options
             
         main_df.drop(columns=['question'], inplace=True)
+        main_df = main_df.rename(columns = {'answerKey':'target'})
 
         return main_df
     
 
-class Big_Bench_Json_Processor:
+class Big_Bench_Json_Processor_my:
     def __init__(self, folder_name, file_name):
         '''
         Constructor
@@ -59,7 +60,7 @@ class Big_Bench_Json_Processor:
     
 
 
-class HellaSwag_Json_Processor:
+class HellaSwag_Json_Processor_my:
     def __init__(self, folder_name, file_name):
         self.folder_name = folder_name
         self.file_name = file_name
@@ -88,7 +89,7 @@ class HellaSwag_Json_Processor:
             for ending in main_df.iloc[idx]['endings']:
                 ctx_b = main_df.iloc[0]['ctx_b']
                 target += f"{ctx_b} {ending}\n"
-            main_df.at[idx, 'output'] = target
+            main_df.at[idx, 'target'] = target
 
         main_df.drop(columns=['endings','ctx_b'], inplace=True)
 

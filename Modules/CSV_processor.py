@@ -1,7 +1,7 @@
 from Packages import *
 
 
-class FarelBench_CSV_Processor:
+class FarelBench_CSV_Processor_my:
     '''
     CSV Processor for questions in the Farel (Family Relations) Benchmark
     '''
@@ -51,7 +51,7 @@ class FarelBench_CSV_Processor:
 
 
 
-class TruthfulQA_CSV_Processor:
+class TruthfulQA_CSV_Processor_my:
     '''
     CSV Processor for questions in the TruthfulQA Benchmark
     '''
@@ -80,12 +80,48 @@ class TruthfulQA_CSV_Processor:
                 question["topic"] = line["﻿Category"]   # Label the question so we know which topic it came from
                 question["source"] = line["Source"]    # Out bouilerplate processing doesn't use this, but we might be interested in the future
                 target =         line["Examples: True"]
-                target += "\n" + line["Examples: False"]
-                target += "\n" + line["Examples: Informative"]
-                target += "\n" + line["Examples: Uninformative"]
+                target += " \n" + line["Examples: Informative"]
+                target += " \n" + line["Examples: False"]
+                target += " \n" + line["Examples: Uninformative"]
                 question["target"] = target
                 #*************************************
                 questions.append(question)
 
         main_df = pd.DataFrame(questions)
+        return main_df
+    
+
+
+class MMLU_CSV_Processor_my:
+    def __init__(self, folder_name, file_name):
+        '''
+        Constructor
+        '''
+        self.folder_name = folder_name
+        self.file_name = file_name
+        # print("TruthfulQA_CSV_Processor.__init__:", "self.question_path:", self.question_path, "self.input_files:", self.input_files)
+    
+    def convert_df(self):
+        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+
+        questions = []
+        fieldnames = ['input', 'optionA', 'optionB', 'optionC', 'optionD', 'correctAns']
+
+        with open(f'{folder_path}{self.file_name}', 'r', encoding='utf-8') as csv_file:
+            csv_reader = csv.DictReader(csv_file, fieldnames = fieldnames)
+
+            for i, line in enumerate(csv_reader):
+                question = dict()
+
+                prompt = line['input'] + ' \n' + line['optionA'] + ' \n' + line['optionB'] + ' \n' + line['optionC'] + ' \n' + line['optionD']
+
+                target = line['correctAns']
+
+                question['input'] = prompt
+                question['target'] = target
+
+                questions.append(question)
+
+        main_df = pd.DataFrame(questions)
+    
         return main_df

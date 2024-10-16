@@ -3,7 +3,25 @@ import csv
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import matplotlib as ply
+import textstat
+import textblob
+import os
+import contextlib
+import ipynb
+
+# Packages to deal with NLP
+import spacy
+import nltk
+from nltk.corpus import words, brown
+
+# Comment out the two below if you haven't downloaded words and brown
+# nltk.download('words')
+# nltk.download('brown')
+
+english_words = set(words.words())
+from textblob import TextBlob
+
+import matplotlib as plt
 from pathlib import Path
 
 pd.set_option('display.max_colwidth', 1000)
