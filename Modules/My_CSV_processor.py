@@ -12,7 +12,7 @@ class FarelBench_CSV_Processor_my:
         self.file_name = file_name
 
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
 
         with open(f'{folder_path}{self.file_name}', 'r', encoding='utf-8') as csv_file:
             questions = []
@@ -63,7 +63,7 @@ class TruthfulQA_CSV_Processor_my:
         # print("TruthfulQA_CSV_Processor.__init__:", "self.question_path:", self.question_path, "self.input_files:", self.input_files)
     
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
 
         questions = []
         with open(f'{folder_path}{self.file_name}', 'r', encoding='utf-8') as csv_file:
@@ -90,12 +90,7 @@ class TruthfulQA_CSV_Processor_my:
         return main_df
     
 
-
-<<<<<<< HEAD
-class MMLU_CSV_Processor_my:
-=======
 class MMLU_CSV_Processor:
->>>>>>> fd3f0875f31ff093c131198d4aab9f530cf5ca5d
     def __init__(self, folder_name, file_name):
         '''
         Constructor
@@ -105,7 +100,7 @@ class MMLU_CSV_Processor:
         # print("TruthfulQA_CSV_Processor.__init__:", "self.question_path:", self.question_path, "self.input_files:", self.input_files)
     
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
 
         questions = []
         fieldnames = ['input', 'optionA', 'optionB', 'optionC', 'optionD', 'correctAns']

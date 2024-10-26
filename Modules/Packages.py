@@ -6,12 +6,11 @@ import seaborn as sns
 import textstat
 import textblob
 import os
-<<<<<<< HEAD
 import contextlib
 import ipynb
 
 # Packages to deal with NLP
-import spacy
+# import spacy
 import nltk
 from nltk.corpus import words, brown
 
@@ -21,9 +20,6 @@ from nltk.corpus import words, brown
 
 english_words = set(words.words())
 from textblob import TextBlob
-=======
-
->>>>>>> fd3f0875f31ff093c131198d4aab9f530cf5ca5d
 
 import matplotlib as plt
 from pathlib import Path

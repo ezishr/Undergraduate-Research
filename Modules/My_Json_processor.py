@@ -7,7 +7,7 @@ class ARC_Challenge_Processor_my:
         self.file_name = file_name
 
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
         
         # Open file and pass to objects
         with open(f'{folder_path}{self.file_name}', mode='r', encoding='UTF-8') as file:
@@ -49,7 +49,7 @@ class Big_Bench_Json_Processor_my:
         self.file_name = file_name
 
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
         with open(f'{folder_path}{self.file_name}', mode='r', encoding='UTF-8') as file:
             data = json.load(file) # standard json.load() function expects the entire file to be a single JSON object or array
 
@@ -66,7 +66,7 @@ class HellaSwag_Json_Processor_my:
         self.file_name = file_name
 
     def convert_df(self):
-        folder_path = f'../../CCSCMW2024/{self.folder_name}/data/'
+        folder_path = f'../../{self.folder_name}/data/'
         
         # Open file and pass to objects
         with open(f'{folder_path}{self.file_name}', mode='r', encoding='UTF-8') as file:
