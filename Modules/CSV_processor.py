@@ -1,6 +1,5 @@
 from Packages import *
 
-
 class FarelBench_CSV_Processor_my:
     '''
     CSV Processor for questions in the Farel (Family Relations) Benchmark
