@@ -6,11 +6,14 @@ import seaborn as sns
 import textstat
 import textblob
 import os
-import contextlib
 import ipynb
+import import_ipynb
+import contextlib
+import random
+import gensim.parsing.preprocessing as preprocessing
 
 # Packages to deal with NLP
-# import spacy
+import spacy
 import nltk
 from nltk.corpus import words, brown
 
@@ -20,6 +23,7 @@ from nltk.corpus import words, brown
 
 english_words = set(words.words())
 from textblob import TextBlob
+
 
 import matplotlib as plt
 from pathlib import Path
