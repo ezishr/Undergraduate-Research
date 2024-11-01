@@ -90,7 +90,7 @@ class TruthfulQA_CSV_Processor_my:
         return main_df
     
 
-class MMLU_CSV_Processor:
+class MMLU_CSV_Processor_my:
     def __init__(self, folder_name, file_name):
         '''
         Constructor
