@@ -15,31 +15,33 @@ class FarelBench_CSV_Processor_my:
         folder_path = f'../../{self.folder_name}/data/'
 
         with open(f'{folder_path}{self.file_name}', 'r', encoding='utf-8') as csv_file:
+            reader_csv = csv.reader(csv_file)
+            # sample ouput of the above reader:
+            # [
+            #        '1', 
+            #        'child', 
+            #        '1', 
+            #        'Given the family relationships:\n* Ralph is Anthony\'s parent.\n* Albert is Ralph\'s parent.\nWhat is Anthony\'s relationship to Ralph?\nSelect the correct answer:\n1. Anthony is Ralph\'s child.\n2. Anthony is Ralph\'s parent.\nEnclose the selected answer number in the <ANSWER> tag, for example: <ANSWER>1</ANSWER>.'
+            #    ]
+            #    [
+            #        '2', 
+            #        'parent', 
+            #        '2', 
+            #        'Another question\nwith multiple lines\nin one cell.'
+            #    ]
+
             questions = []
             
-            for line in csv_file:
-                line = line.split(",")
+            for line in reader_csv:
                 question = dict()
-                target = ""
-                # 0 1     2 3                                                                                                                                                                                                                                                                                                                                               
-                # 1,child,1,"Given the family relationships:\n* Ralph is Anthony's parent.\n* Albert is Ralph's parent.\nWhat is Anthony's relationship to Ralph?\nSelect the correct answer:\n1. Anthony is Ralph's child.\n2. Anthony is Ralph's parent.\nEnclose the selected answer number in the <ANSWER> tag, for example: <ANSWER>1</ANSWER>."
-                question["topic"] = line[1]   # Label the question so we know which level it is (child, grandparent, etc.)
-                tmp = line[3]
-                tmp = tmp.split(r"\n")
-                first_part = []
-                second_part = []
-                found_what_is = False
 
-                for string in tmp:
-                    if string.startswith("What is"):
-                        found_what_is = True
-                    if not found_what_is:
-                        first_part.append(string)
-                    else:
-                        second_part.append(string)
-                question["input"] = ' '.join(first_part)
-                question["target"] = ' '.join(second_part)
+                question["topic"] = line[1]   # Label the question so we know which level it is (child, grandparent, etc.)
                 
+                question["input"] = line[3]
+
+                match = re.search(r"<ANSWER>(\d+)</ANSWER>", line[3])
+                question["target"] = match.group(1) if match else None
+
                 questions.append(question)
             
             main_df = pd.DataFrame(questions)

@@ -10,6 +10,7 @@ import ipynb
 import import_ipynb
 import contextlib
 import random
+import re
 # import gensim.parsing.preprocessing as preprocessing
 
 # Packages to deal with NLP
@@ -29,4 +30,4 @@ import matplotlib as plt
 from pathlib import Path
 
 pd.set_option('display.max_colwidth', 1000)
-pd.set_option('display.max_rows', 10)
+pd.set_option('display.max_rows', 20)
