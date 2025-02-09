@@ -40,6 +40,52 @@ def write_string_to_file(text, file_name):
     return status
 
 
+
+def write_dict_to_file(dictionary, file_name, length = 0, denominator = 0):
+    """
+    Writes the keys and values of a dictionary to a text file, one per line.
+
+    @param dictionary dict: The dictionary whose keys will be written.
+    @param file_name string: The name of the file to write to.
+    @param length int: The number of key/value pairs to write. If 0, write all. Defaults to zero
+    @param denominator int: The number to use for the denominator when calculating percentages. Defaults to 0 and no perecentages will be calculated.
+    @return bool: True if file was written, False if an exception was thrown
+    """
+
+    status = True
+
+
+    base_path = "/Users/ezishr/Library/CloudStorage/OneDrive-UniversityofCincinnati/Undergraduate Research/Check points"
+
+    full_path = os.path.join(base_path, file_name)
+
+
+    try:
+        os.makedirs(os.path.dirname(full_path), exist_ok=True)
+        with open(file_name, 'w', encoding='utf-8') as f:
+            if length == 0:
+                #print("write_dict_to_file length = 0", "********************* writing", len(dictionary), "dictionary items to", file_name, " ********************")
+                for key in dictionary:
+                    if denominator == 0:
+                        f.write(str(key) + ": " + str(dictionary[key]) + '\n')
+                    else:
+                        f.write(str(key) + ": " + str(dictionary[key]) + ", " + '{0:.2f}'.format((dictionary[key] / denominator) * 100) + '\n')
+            else:
+                #print("write_dict_to_file", "********************* writing", length, "dictionary items to", file_name, " ********************")
+                for key in list(dictionary.keys())[0:length]:
+                    if denominator == 0:
+                        f.write(str(key) + ": " + str(dictionary[key]) + '\n')
+                    else:
+                        f.write(str(key) + ": " + str(dictionary[key]) + ", " + '{0:.2f}'.format((dictionary[key] / denominator) * 100) + '\n')
+    except Exception as e:
+        status = False
+        print(f"Utilities.write_dict_to_file(): Error writing to {file_name}: {e}")
+
+    return status
+
+
+
+
 def reduntdant_characters(data, col_names, characters):
     """
     Remove redundant characters from a column in a dataframe
@@ -204,3 +250,22 @@ def groq_line_generate(raw_dataset, output_dataset, start_idx, end_idx, system_m
     groq_sample = groq(sample, system_message, model_name)
     output_dataset.loc[start_idx:end_idx, "llama_output"] = groq_sample[model_name].values
     return output_dataset
+
+
+
+
+def comparison(df, target_col, output_col, model_name):
+    """
+    Compare the output of model with the target column
+    @param df dataframe: the dataframe to compare
+    @param target_col str: the name of the target column
+    @param output_col str: the name of the output column
+    @param model_name str: the name of the model
+
+    @return: None
+    """
+
+    accuracy = df[output_col].astype(str).str.strip().str.lower() == df[target_col].astype(str).str.strip().str.lower()
+
+    print(f'Accuracy of {model_name} is:\n{accuracy.value_counts()} \nAccuracy rate: {accuracy.value_counts()[True]/len(accuracy)}')
+    
