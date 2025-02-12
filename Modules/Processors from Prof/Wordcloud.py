@@ -71,5 +71,6 @@ class Wordcloud:
         plt.figure(figsize=(15, 10))
         plt.imshow(wc, interpolation="bilinear")
         plt.axis("off")
-        wc.to_file(".\\" + benchmark_name + "\\results\\" + file_name + ".png")
+        # wc.to_file(".\\" + benchmark_name + "\\results\\" + file_name + ".png")
+        wc.to_file("wordcloud.png")
         #plt.show()

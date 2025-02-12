@@ -29,12 +29,14 @@ import time
 
 
 # Packages to deal with NLP
-# import spacy
+import spacy
+nlp = spacy.load('en_core_web_sm')
 import nltk
 from nltk.corpus import words, brown
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize
 from nltk.wsd import lesk
+from nltk.stem import WordNetLemmatizer
 
 # Comment out the two below if you haven't downloaded words and brown
 # nltk.download('words')

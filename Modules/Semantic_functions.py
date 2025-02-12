@@ -1,13 +1,22 @@
 from Packages import *
 
-def find_ambiguous_words(sentence):
+def find_ambiguous_words(text):
     """
     Find ambiguous words in a sentence
     @param sentence string: the sentence to find ambiguous words in
     @return list: a list of ambiguous words in the sentence
     """
-    words = word_tokenize(sentence)
+    text_no_stopwords = text.replace('\\n', '')
+    text_no_stopwords = preprocessing.remove_stopwords(text)
+
+    words = word_tokenize(text_no_stopwords)
     ambiguous_words = [word for word in words if len(wn.synsets(word)) > 1]
+    
+    doc = nlp(text)
+    for ent in doc.ents:
+        if ent.label_ == "PERSON" and ent.text in ambiguous_words:
+            ambiguous_words.remove(ent.text)
+
     return ambiguous_words
 
 
@@ -18,12 +27,18 @@ def auto_wsd(df):
     @return dict: a dictionary of ambiguous words and their senses
     """
     disambiguated_senses = {}
-    for idx in range(len(df)):
-        sentence = df.loc[idx, 'input']
-        ambiguous_words = find_ambiguous_words(sentence)
 
-        for word in ambiguous_words:
-            sense = lesk(sentence, word)
+    wnl = WordNetLemmatizer()
+
+    for i in range(len(df)):
+        text = df.loc[i, "input"]
+        ambiguous_words = find_ambiguous_words(text)
+
+        word_clean = [wnl.lemmatize(w, pos="n") if wnl.lemmatize(w, pos="n") else w for w in ambiguous_words]
+        word_clean = set(word_clean)
+
+        for word in word_clean:
+            sense = lesk(text, word)
             sense_name = sense.name() if sense else None
 
             if word not in disambiguated_senses:
@@ -64,3 +79,18 @@ def build_text_from_questions(df, write_to = None, remove_stopwords = True):
     #     return text
 
     return text_without_stopwords
+
+
+def get_synset_def(synset_name):
+    """
+    Print the definition of a synset
+    @param synset_name string: the name of the synset
+    @return None
+    """
+    synset = wn.synset(synset_name)
+
+    # Retrieve the definition (meaning) of the synset
+    definition = synset.definition()
+
+    # Print the definition
+    print(definition)
