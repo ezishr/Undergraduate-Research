@@ -11,7 +11,7 @@ import import_ipynb
 import contextlib
 import random
 import re
-# import gensim.parsing.preprocessing as preprocessing
+import gensim.parsing.preprocessing as preprocessing
 
 # AI
 import google.generativeai as genai
@@ -32,6 +32,9 @@ import time
 # import spacy
 import nltk
 from nltk.corpus import words, brown
+from nltk.corpus import wordnet as wn
+from nltk.tokenize import word_tokenize
+from nltk.wsd import lesk
 
 # Comment out the two below if you haven't downloaded words and brown
 # nltk.download('words')
