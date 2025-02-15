@@ -14,9 +14,10 @@ import re
 import gensim.parsing.preprocessing as preprocessing
 
 # AI
-import google.generativeai as genai
-os.environ["GEMINI_API_KEY"] = "AIzaSyCM-GWMhMPoBZpvlXWqKr5nKnY02OIVdf4"
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+# import google.generativeai as genai
+# os.environ["GEMINI_API_KEY"] = "AIzaSyCM-GWMhMPoBZpvlXWqKr5nKnY02OIVdf4"
+# os.environ["GEMINI_API_KEY"] = "AIzaSyAP8QMlHxlLhX518vKYJbd3bQuKZlb6pD0"
+# genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 from groq import Groq
 os.environ["GROQ_API_KEY"] = "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"
