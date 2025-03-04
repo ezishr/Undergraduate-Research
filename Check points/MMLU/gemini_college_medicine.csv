@@ -1,921 +1,1176 @@
 input,target,gemini_output
-"A police officer carries out hundreds of traffic stops every year. When his supervisor is reviewing the officer’s records for the past year, he notices that the officer is equally likely to stop people of various genders, ages, and races. However, he is significantly more likely to write tickets for middle-aged white males with dark hair and eyes. When confronted with this fact, the officer truthfully states that he has no idea why that is, and that it must simply be a coincidence. Unbeknownst to the officer, this behavior is tied to the fact that these men look like his father, with whom he had an abusive relationship as a child. What psychological framework would directly address the unconscious bias in his behavior?  
-Behaviorist 
-Psychoanalytic 
-Cognitive behavioral 
-Humanistic",B,B
-"Who set the world record for the mile race in 1886? 
-R Bannister 
-S Coe 
-J DiMaggio 
-WG George",D,A
-"Which of the following statements identifies a chemically based sensory system?
-I. Gustatory system
-II. Auditory system
-III. Olfactory system 
-I only 
-II only 
-III only 
-I and III only",D,I and III only
-"The complete resynthesis of phosphocreatine after very high intensity exercise normally takes: 
-about 10 seconds. 
-about 30 seconds. 
-about 1 minute. 
-about 4 minutes.",D,D
-"A race car attempting to jump a series of 8 buses is set up on a flat track with a ramp at the end. Engineers assigned to the project have determined that, in order to jump the buses, the car must reach a velocity of 130 km/h. If the distance of the track is 50m, at what rate must the car accelerate to reach this velocity? 
-13 m/s^2 
-26 m/s^2 
-7 m/s^2 
-17 m/s^2",A,A
-"Fatty acids are transported into the mitochondria bound to: 
-thiokinase. 
-coenzyme A (CoA). 
-acetyl-CoA. 
-carnitine.",D,D
-"Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
-
-Based on the article, which of the following statements is the author likely to agree with? 
-Heart surgery patients who cannot run on treadmills may benefit from sauna use. 
-Patients on a diet would benefit from sauna use. 
-Salt restriction would be equal to sauna use for hypertensive patients. 
-Patients with skin conditions may be cured with sauna use.",A,A
-"Diisopropylfluorophosphate (DFP) binds to the active site of acetylcholinesterase (ACE) in the synapses of neurons. When DFP binds to ACE, the ACE enzyme is rendered permanently inactive. This makes DFP a potent toxin, with lethal amounts at less than 100 mg. The interaction between DFP and ACE can best be characterized as: 
-Competitive inhibition 
-Noncompetitive inhibition 
-Irreversible inhibition 
-Partially competitive inhibition",C,C
-"The process of translation requires the presence of: 
-mRNA, tRNA and ribosomes. 
-mRNA, ribosomes and RNA polymerase. 
-DNA, mRNA and RNA polymerase. 
-chromatin, DNA and amino acids.",A,A
-"Performance enhancing synthetic steroids are based on the structure of the hormone: 
-testosterone. 
-cortisol. 
-progesterone. 
-aldosterone.",A,A
-"Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids? 
-Ka is less than 1 
-They have an open electron spot on their outer valence rings 
-They have stable conjugate bases 
-They remain bound in the presence of water.",C,C
-"A descript amount of 2-bromobutane is placed into a strong solution of ethanol and allowed to complete a reaction. The result of this reaction produces a major product of 2-butene and a minor product of 1-butene. Which of the following descriptions of the starting compound explains why 2-butene is the major product? 
-Carbon 3 has less hydrogen atoms 
-1-butene rearranges to 2-butene in solution 
-Ethanol prefers the second carbon in any chain 
-Cyclic aromatization",A,A
-"A hedonic teenager of wayward morals, in one night, sequentially i) has consensual sexual intercourse with his sister, ii) leaves no tip at the bar, iii) has non-censual sexual relations with an unknown woman, and iv) vomits on the steps to the door of a local church. The teenager has violated society’s norms sequentially (to the greatest degree) on the order of: 
-mores, mores, the law, mores 
-taboo, folkways, the law, and taboo 
-the law, folkways, folkways, and folkways 
-taboo, folkways, the law, and mores",D,D
-"The maximum sustainable power: 
-usually remains constant during a race. 
-declines with the distance of the race. 
-is improved by a high fat diet. 
-is inversely related to muscle glycogen content.",B,B
-"A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or “bad things will happen”. What is the likely state of this patient’s dopamine system? 
-There is decreased dopamine in the synaptic cleft. 
-There are decreased dopamine receptors on the post-synaptic membrane. 
-There is cell death in the areas with high dopamine cells. 
-There is seizure-like activity in the dopamine brain areas.",B,A
-"A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell? 
-80% 
-70% 
-60% 
-Not enough information given.",B,A
-"The transcription of DNA to a molecule of messenger RNA occurs: 
-on the ribosomes. 
-in the cytosol. 
-in the nucleus. 
-only during cell division.",C,C
-"A new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under? 
-Oxidoreductase 
-Transferase 
-Hydrolase 
-Lyase",B,B
-"For a very weak base, the pKb of a solution would likely be: 
-Equal to the pOH 
-Higher than the pOH 
-Lower than the pOH 
-Near 7 at 25ºC",B,A
-"The genome is: 
-the number of chromosomes found in the somatic cells of an organism. 
-the entire DNA sequence of an organism. 
-the entire list of proteins that an organism is capable of producing. 
-the DNA sequence of an entire chromosome.",B,B
-"Which of the following are steroid-based molecules?
-I. Testosterone
-II. Triglycerides
-III. Progesterone
-IV. DNA 
-I only 
-I, II, and III 
-I and III 
-I, III, and IV",C,I and III
-"Most of the free fatty acids are transported in the blood: 
-inside the red blood cells. 
-as lipoproteins. 
-combined with glucose. 
-bound to albumin.",D,D
-"Which of the following factors can affect enzyme activity? 
-Temperature. 
-pH. 
-The presence of certain metal ions. 
-All of the above.",D,D
-"Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane? 
-Osmosis 
-Passive Transport 
-Active Transport 
-Endocytosis",A,B
-"Embedded in the inner membrane of the mitochondrion are: 
-the enzymes of the tricarboxylic acid cycle (Krebs' cycle). 
-the components of the electron transport chain. 
-glycogen molecules. 
-triacylglycerol molecules.",B,B
-"A segment of DNA from a lab mouse is determined to be 5’ – GGATCCTCATG – 3’. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion? 
-5’ – GCATCCTCATG – 3’ 
-5’ – TGATCCCAG – 3’ 
-5’ – GGTCCTCATC – 3’ 
-5’ – GGATCCATG – 3’",C,C
-"While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at? 
-941 Hz 
-787 Hz 
-924 Hz 
-912 Hz",C,A
-"An object rests on a plane, with an angle of incline, ?, an acceleration due to gravity, g, and a coefficient of friction µ between the object and the plane. Which of the following gives the acceleration of the object? 
-a = g sin ? 
-a = g (sin ? – cos ?) 
-a = g (cos ? – µ sin ?) 
-a = g (sin ? – µ cos ?)",D,A
-"David is a nationally ranked cellist who recently accepted a scholarship to a major college to perform in the orchestra. Over the summer, he has been given a packet of sheet music to be proficient in by fall semester. David is a perfectionist when it comes to his craft. He always compares himself to better players, and is very hard on himself when he cannot master a section of one of his pieces. Which of the following answers best describes David? 
-Low self-esteem, strong self-efficacy, internal locus of control 
-High self-esteem, strong self-efficacy, internal locus of control 
-Low self-esteem, strong self-efficacy, external locus of control 
-Low self-esteem, low self-efficacy, internal locus of control",A,A
-"A common heart defect in humans is a ventricular septal defect, in which there is a hole in the septum between the right and left ventricles. If a patient were to have this defect, which of the following statements is correct? 
-The percentage of oxygen in the left atrium would be lower. 
-The percentage of CO2 in the right ventricle would be higher. 
-The percentage of oxygen in the right atrium would be lower. 
-The percentage of oxygen in the right ventricle would be higher.",D,A
-"When preparing for the MCAT exam, a student begins studying electrochemical cells. He learns the basic information needed by actively relating it to previous information he has learned about redox reactions. He then builds from that knowledge to learn the advanced concepts needed. The student’s process is best characterized as: 
-Chunking 
-A network model 
-Maintenance rehearsal 
-Elaborative rehearsal",D,D
-"Two scientists at a conference on evolution take to the stage on day 3 to argue their theories against one other. Each is a devout student of their own philosophy. The first scientist contends that organisms evolved via the increase of organs that were used the most during their time. They would then pass these on to subsequent generations. The second scientist, however, believed that advantages each organism possessed were absent for a long time, randomly occurred, and when they were beneficial, that organism would rapidly populate the population over a short period of time, evolutionarily speaking. Which of the following statements would strengthen the second scientist’s argument? 
-A study that shows that bodybuilders who train more have larger children. 
-A taxonomy study that shows long periods of stagnant growth followed by short burst of massive evolution. 
-A study that showed a species who were more successful due to the things they learned over their lifetime that they passed on to their children. 
-A study that showed a consistent amount of time between the emergence of each new species.",B,B
-"A source emits a sound from one medium with a certain velocity, intensity, frequency and wavelength. When the sound exits the first medium and enters a denser medium, all of the following changes EXCEPT: 
-velocity 
+"A 10-N force at an angle 45° above the horizontal has a horizontal component of about 
+7 N 
+5 N 
+10 N 
+12 N",A,A. 7 N
+"A completely submerged object always displaces its own 
+weight of fluid. 
+volume of fluid. 
+density of fluid. 
+All of these.",B,B
+"When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light 
+totally internally reflects 
+passes into the air above 
+is absorbed 
+None of these",B,A
+"According to four-dimensional geometry, the angles of a triangle add to 180° 
+always. 
+sometimes. 
+never. 
+on planet Earth only.",B,B
+"A voltage will be induced in a wire loop when the magnetic field within that loop 
+changes 
+aligns with the electric field 
+is at right angles to the electric field 
+converts to magnetic energy",A,A
+"Among these colors, the one that has the most energy per photon is 
+red 
+yellow-green 
+blue 
+violet",D,D
+"According to general relativity, 
+mass distorts spacetime. 
+gravity affects clocks. 
+light can’t escape from a black hole. 
+All of these.",D,D
+"A step-up transformer in an electric circuit can step up 
+voltage 
+energy 
+Both of these 
+Neither of these",A,A
+"Spectral lines of the elements are 
+chaotic 
+ordered 
+positioned by amplitude 
+in phase",B,B
+"A wave transfers 
+amplitude 
+wavelength 
+frequency 
+energy",D,D
+"Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore 
+the same 
+opposite 
+Either of these 
+Need more information",B,A
+"The surface of planet Earth loses energy to outer space due mostly to 
+conduction 
+convection 
+radiation 
+radioactivity",C,C
+"In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is 
+half, 1 A 
+2 A 
+Depends on which lamp is closer to the battery 
+Not enough information to say",B,B
+"As a blinking light source approaching you gains speed, you see the frequency of flashes 
+increase. 
+decrease. 
+remain unchanged. 
+None of these.",A,A
+"In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is 
+2mg 
+mg 
+mg/2 
+mg/4",B,B
+"Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is 
+less. 
+equal. 
+greater. 
+none because it sinks.",A,A
+"When you look at the red petals of a rose the color light you're seeing is 
+red. 
+green. 
+white minus red. 
+a mixture of green and yellow.",A,A
+"Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased 
+speed 
+frequency 
+wavelength 
+All of these",B,B
+"When you squeeze an air-filled party balloon, you increase its 
+volume 
+mass 
+weight 
+density",D,D
+"Polarization is a property of 
+transverse waves 
+longitudinal waves 
+all waves 
+None of these",A,A
+"In a vacuum, an object has no 
+buoyant force 
+mass 
+weight 
+All of these",A,C
+"Temperature is generally proportional to a substance’s 
+thermal energy. 
+vibrational kinetic energy. 
+average translational kinetic energy. 
+rotational kinetic energy.",C,C
+"In a hydraulic press operation, the output piston cannot 
+move farther than the input piston 
+exceed the force input 
+exceed the input piston’s speed 
+produce increased energy",D,C
+"When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum 
+decreases 
+increases 
+remains unchanged 
+may increase or decrease",C,Increases
+"According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces 
+half the bend. 
+the same bend if the branch doesn’t break. 
+twice the bend. 
+4 times the bend.",C,C
+"When an increase in speed doubles the kinetic energy of a moving body its momentum 
+increases but less than doubles 
+doubles 
+more than doubles 
+depends on factors not stated",A,B
+"Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion? 
+1 minute. 
+2 minutes. 
+5 minutes. 
+9 minutes.",D,C
+"If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will 
+move at a constant speed in a straight line 
+accelerate at a constant rate in a straight line 
+come to rest 
+increase its amount of inertia",A,A
+"Relativity equations for time, length, and momentum hold true for 
+everyday low speeds. 
+relativistic speeds. 
+Both of these. 
+Neither of these.",C,B
+"Put a saucer of water on your table. A process that then occurs is 
+evaporation 
+condensation 
+Both 
+Neither",C,A
+"A barometer that uses water instead of mercury will be 
+shorter 
+taller 
+equal in height 
+inoperable",B,A
+"A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the 
+force due to gravity is the same on each. 
+air resistance is always zero in free fall. 
+inertia of both rocks is the same. 
+ratio of force to mass is the same.",D,D
+"When an increase in speed doubles the momentum of a moving body its kinetic energy 
+increases but less than doubles 
+doubles 
+more than doubles 
+depends on factors not stated",C,C
+"The equation E = mc^2 indicates that energy 
+equals mass moving at the speed of light squared. 
+equals moving mass. 
+is fundamentally different than mass. 
+and mass are closely related.",D,D
+"General relativity predicts that 
+light leaving the Sun is slowed by gravity. 
+light passing the Sun is deflected. 
+a clock on the Sun’s surface runs faster than on Earth. 
+All of these.",D,B
+"When an element ejects an alpha particle, the atomic number of the resulting element 
+reduces by 2 
+reduces by 4 
+increases by 2 
+increases by 4",A,A
+"As more lamps are connected in parallel in a circuit, the current in the power source 
+increases 
+decreases 
+remains the same 
+Not enough information to say",A,A
+"An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of 
+30 km/h 
+40 km/h 
+50 km/h 
+60 km/h",C,C
+"The energy of an emitted photon is related to its 
+amplitude 
+polarization 
+momentum 
+frequency",D,D
+"Thermal conduction involves mainly 
+electrons 
+protons 
+neutrons 
+ions",A,A
+"Compared with the current in an LED lamp the current in the connecting wire is 
+less. 
+more. 
+the same. 
+Need more information.",C,The same.
+"Bow waves are produced by waves of water 
+overlapping one another 
+constructively interfering 
+moving slower than the source producing them 
+All of these",D,C
+"The speed of sound is slightly greater on a 
+cold day 
+hot day 
+day with steady temperature 
+None of these",B,B
+"Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is 
+half 
+twice 
+the same 
+None of these",C,C
+"The second law of thermodynamics tells us that heat doesn’t flow from 
+hot to cold ever 
+cold to hot ever 
+hot to cold without external energy 
+cold to hot without external energy",D,C
+"In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of 
+hydrogen. 
+oxygen. 
+nitrogen. 
+But all have the same speed on average.",A,A
+"Compared with the power input, the power output of an ideal transformer is 
+greater 
+less 
+the same 
+Any of these",C,the same
+"The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is 
+less than 0.8 N 
+0.8 N 
+greater than 0.8 N 
+dependent on the orientation of its body",B,B
+"The vibrations in a longitudinal wave move in a direction 
+along and parallel to the wave 
+perpendicular to the wave 
+Both of these 
+Neither of these",A,A
+"The potential energy of a compressed spring and the potential energy of a charged object both depend on 
+the work done on them 
+motion 
+Both of these 
+Neither of these",A,A
+"A step-up transformer in an electrical circuit can step up 
+voltage 
+energy 
+Both of these 
+Neither of these",A,A
+"The neutrons in an atom are normally found 
+inside the nucleus 
+outside the nucleus 
+Either of these 
+Neither of these",A,A
+"The greenish-blue color of ocean water is due mostly to light that hasn’t been 
+absorbed 
+reflected 
+scattered 
+refracted",A,A
+"Noise-canceling devices make use of sound 
+destruction 
+interference 
+resonance 
+amplification",B,B
+"Black is the combination of 
+all the colors together 
+two or more appropriate colors 
+light when a prism is held upside down 
+None of these",D,A
+"In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is 
+about 1 A 
+2 A 
+Depends on which lamp is closer to the battery 
+Not enough information to say",D,B
+"Which of these changes when light refracts in passing from one medium to another? 
+Speed only 
+Wavelength only 
+Both speed and wavelength 
+Neither of these",C,C
+"If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be 
+2 Hz 
+4 Hz 
+8 Hz 
+16 Hz",B,A
+"The loudness of a sound is most closely related to its 
+frequency 
+period 
+wavelength 
+amplitude",D,D
+"The electric field inside the dome of a Van de Graaff generator is zero when the dome is 
+charged 
+uncharged 
+Either of these 
+Neither of these",C,A
+"The redness of a sunrise or sunset is due mostly to light that hasn’t been 
+absorbed 
+transmitted 
+scattered 
+polarized",C,A
+"When a nucleus of uranium-238 emits an alpha particle, left behind is 
+thorium-242 
+thorium-238 
+thorium-234 
+radium-214",C,C
+"The Doppler effect occurs when a source of sound moves 
+toward you 
+away from you 
+Both of these 
+None of these",C,C
+"When a proton is plucked from an atomic nucleus, the atom has a decrease in 
+charge 
+energy 
+mass 
+all of these",D,A
+"If the Sun were twice as massive, its pull on Mars would be 
+unchanged 
+twice as much 
+half as much 
+four times as much",B,D
+"During the time an aircraft produces a sonic boom the aircraft is 
+breaking the sound barrier 
+pulling out of a subsonic dive 
+flying faster than sound 
+Each of these produces a sonic boom",C,C
+"When food is exposed to gamma radiation, the food 
+becomes slightly radioactive 
+doesn’t become radioactive 
+will spoil faster 
+should be avoided",B,B
+"The red glow in the neon tube of an advertising sign is a result of 
+fluorescence. 
+coherence. 
+polarization. 
+de-excitation.",D,A
+"Light that is not transmitted by opaque materials is 
+reflected or converted to internal energy in the material. 
+mainly reflected. 
+mainly refracted. 
+transmitted at a lower frequency.",A,A
+"Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh 
+1/100 as much 
+10 times as much 
+100 times as much 
+1000 times as much",C,C
+"A magnetic force acting on a beam of electrons can change its 
+direction 
+energy 
+Both of these 
+Neither of these",A,A
+"Microscopic slush in water tends to make the water 
+more dense 
+less dense 
+more slippery 
+warmer",A,A
+"The speed of sound in air depends on 
+frequency. 
+wavelength. 
+air temperature. 
+All of these.",C,C
+"Heat comes from the Sun to Earth by the process of 
+conduction 
+convection 
+radiation 
+All of these, although radiation is greatest",C,C
+"A torque is a force 
+like any other force 
+multiplied by a lever arm 
+that is fictitious 
+that accelerates things",B,C
+"All of the following are electromagnetic waves EXCEPT 
+microwaves 
+light waves 
+X-rays 
+None is outside the family; all are electromagnetic waves",D,D
+"Big brother and little sister can balance on a seesaw because of balanced 
+forces 
+torques 
+energies 
+All of these",B,B
+"Any atom that emits an alpha particle or beta particle 
+becomes an atom of a different element always. 
+may become an atom of a different element. 
+becomes a different isotope of the same element. 
+increases its mass.",A,B
+"Regelation occurs due to water’s 
+high specific heat 
+open-structured ice crystals 
+high rate of expansion 
+slight tendency to freeze when its temperature is lowered",B,B
+"A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in 
+speed 
+momentum 
+Both 
+Neither",A,B
+"A capacitor can store 
+charge 
+energy 
+Both of these 
+Neither of these",C,C
+"For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be 
+one-quarter the value for a tube open at both ends 
+one-half the value for a tube open at both ends 
+twice the value for a tube open at both ends 
+four times the value for a tube open at both ends",B,A
+"The period of a 10-Hz wave is 
+1/10 s 
+1.0 s 
+10 s 
+None of these",A,A
+"If the Sun collapsed to become a black hole Planet Earth would 
+continue in its present orbit. 
+likely be sucked into the black hole. 
+be pulled apart by tidal forces. 
+Both C and D.",A,A
+"The electric field between a pair of oppositely charged parallel plates 
+gets weaker with distance inside the plates 
+follows the inverse-square law 
+Both of these 
+Neither of these",D,A
+"The flight of a blimp best illustrates 
+Archimedes’ principle 
+Pascal’s principle 
+Bernoulli’s principle 
+Boyle’s law",A,A
+"The distance of your image behind a plane mirror is equal to 
+half your height 
+half your distance from the mirror 
+your distance in front of the mirror 
+more than your distance in front of the mirror",C,C
+"The discrete orbits of electrons are best understood when modeled by 
+high-speed particles 
+particles on springs 
+waves 
+photons",C,C
+"Heat engines, such as a jet engine, are more efficient when run at 
+high temperatures 
+constant temperatures 
+low temperatures 
+a constant rate",A,A
+"The phenomenon of interference occurs for 
+sound waves 
+light waves 
+Both of these 
+Neither of these",C,C
+"As more lamps are connected in a series circuit the current in the power source 
+increases. 
+decreases. 
+remains much the same. 
+Need more information.",B,B
+"When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons 
+must be supplied by you 
+are included in the wire 
+may fall out—hence insulation 
+None of these",B,A
+"When a uranium nucleus undergoes fission the energy released is primarily in the form of 
+gamma radiation. 
+kinetic energy of fission fragments. 
+kinetic energy of ejected neutrons. 
+All of these about equally.",B,B
+"Most of the radiation in Earth’s biosphere is 
+natural background radiation 
+the result of military activities 
+from nuclear power plants 
+in the form of cosmic rays",A,A
+"When white light enters a prism green light is bent more than 
+blue light. 
+violet light. 
+red light. 
+None of these choices is correct.",C,C
+"When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension 
+is mg 
+is greater than mg always 
+is less than mg always 
+may be greater or less than mg depending on the speed of the ball",B,B
+"When a tin can is whirled in a horizontal circle, the net force on the can acts 
+inward 
+outward 
+upward 
+None of these",A,A
+"The highest ocean tides occur when Earth and the Moon are 
+lined up with the Sun 
+at right angles to the Sun 
+at any angle to the Sun 
+lined up during spring",A,A
+"Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises 
+25 cm 
+25 m 
+50 cm 
+None of these",A,A
+"Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is 
+lower 
+higher 
+about the same 
+Can’t say",A,A
+"The color of light most intense in the solar radiation curve is 
+infrared 
+red 
+yellow-green 
+violet",C,C
+"If the current in the filament of a lamp is 3 A, the current in the connecting wire is 
+less than 3 A 
+3 A 
+more than 3 A 
+Not enough information to say",B,B
+"If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains? 
+Magnesium-22 
+Magnesium-20 
+Oxygen-18 
+Oxygen-16",D,C
+"If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in 
+less than 20 years. 
+20 years. 
+more than 20 years. 
+None of these.",B,A
+"In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of 
+hydrogen 
+oxygen 
+nitrogen 
+All have same average speed",A,A
+"The mutual induction of electric and magnetic fields can produce 
+light 
+energy 
+Both of these 
+Neither of these",A,C
+"When a model car speeds up to three times its original speed, its kinetic energy is 
+the same 
+twice as great 
+three times greater 
+None of these",D,C
+"If an iron nucleus split in two, its fission fragments would have 
+less mass per nucleon 
+more mass per nucleon 
+the same mass per nucleon 
+either more or less mass per nucleon",B,A
+"The surface of Planet Earth loses energy to outer space due mostly to 
+conduction. 
+convection. 
+radiation. 
+radioactivity.",C,C
+"The direction of natural processes is from states of 
+higher order to lower order 
+lower order to higher order 
+disorganization to organization 
+disorder to equilibrium",A,A
+"A principal source of the Earth’s internal energy is 
+tidal friction. 
+gravitational pressure. 
+radioactivity. 
+solar radiation.",C,C
+"A diffraction grating relies on light 
+interference 
+amplitudes 
+variations in brightness 
+being composed of photons",A,A
+"A satellite in Earth orbit is above Earth’s 
+atmosphere 
+gravitational field 
+Both 
+Neither",A,A
+"The time it takes for a pendulum swinging to and fro refers to its 
+frequency 
+period 
+wavelength 
+amplitude",B,B
+"As entropy in a system increases, energy in the system 
+becomes more ordered 
+becomes less ordered 
+reaches equilibrium 
+moves toward destruction",B,B
+"When water changes to steam, energy is 
+absorbed by the water 
+released by the water 
+conserved as the phase change occurs 
+changed to a different form",A,A
+"According to Coulomb, a pair of charged particles placed twice as close to each other experience a force 
+twice as strong 
+four times as strong 
+half as strong 
+one-fourth as strong",B,B
+"The factors, both of which will increase the magnetic field strength of an electromagnet, are 
+increased electrical current and fewer coils of wire 
+increased diameter of coil and an increase in the number of coils 
+an increase in the electrical current and using a strong ferromagnetic material like iron 
+using an air core instead of iron and increasing the diameter of the coil",C,C
+"The team that wins in a tug-of-war is the team that 
+produces more tension in the rope than the opponent 
+pushes hardest on the ground 
+Both 
+Neither",B,A
+"Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes? 
+Alpha 
+Beta 
+Gamma 
+None of these",C,C
+"Thermal convection involves mainly 
+radiant energy 
+fluids 
+insulators 
+All of these",B,B
+"A 10-Ω resistor carries 10 A. The voltage across the resistor is 
+0 
+more than 0 but less than 10 V 
+10 V 
+more than 10 V",D,C
+"A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about 
+10 m/s 
+14 m/s 
+16 m/s 
+20 m/s",B,B
+"The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is 
+1 km/h 
+2 km/h 
+4 km/h 
+greater than 4 km/h",C,C
+"The metal detectors people walk through at airports operate via 
+Ohm’s law 
+Faraday’s law 
+Coulomb’s law 
+Newton’s laws",B,B
+"Sound travels in 
+solids 
+liquids 
+gases 
+All of these",D,D
+"When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of 
+gamma radiation. 
+kinetic energy of the alpha particle. 
+kinetic energy of the neutron. 
+All of these about equally.",C,B
+"Polarization is a property of 
+transverse waves. 
+longitudinal waves. 
+all waves. 
+None of these.",A,A
+"The phenomenon of beats results from sound 
+reflection. 
+refraction. 
+interference. 
+All of these.",B,C
+"The lowest possible temperature is absolute zero, at 
+0 kelvin 
+−273°C 
+Both are the same 
+None of these",C,C
+"Refraction occurs when a wave crosses a boundary and changes 
+speed and direction 
 intensity 
 frequency 
-wavelength",C,C
-"The energy charge of the cell is: 
-the difference between the charge on the outside and inside of a cell. 
-generated by the sodium-potassium ATPase. 
-the overall rate of energy use by the cell. 
-the extent to which the total adenine nucleotide pool is phosphorylated.",D,D
-"The body compensates for increased environmental temperature by: 
-decreasing salt retention 
-increasing respiration rate 
-increasing heart rate 
-increasing water lost through skin",D,"B, D"
-"Which of the following releases most energy when completely oxidised in the body? 
-One gram of glucose 
-One gram of palmitic acid 
-One gram of leucine 
-One gram of alcohol",B,B
-"An individual is born with a mutation causing her to partially retain a form of fetal hemoglobin into adulthood. Compared to a normal individual, this person would exhibit: 
-no differences from a normal adult. 
-significantly reduced oxygen binding in the lungs. 
-no symptoms, since retention of fetal hemoglobin would be fatal. 
-increased oxygen binding to hemoglobin in the tissues.",D,A
-"Women's world record performances have improved rapidly in recent years mainly because: 
-women have evolved a greater muscle mass. 
-women can now run faster than men. 
-women have started training at an earlier age. 
-more women are now engaged in sport.",D,D
-"During muscular contraction, interactions between myosin and actin allow for shortening of each sarcomere. In addition to the power stroke, what other process of muscle contraction requires ATP? 
-Tropomyosin-troponin interaction 
-Myosin-actin interaction 
-Calcium-troponin interaction 
-Myosin-actin detachment",D,D
-"The activity of creatine kinase is: 
-increased when intracellular ADP rises. 
-increased when muscle pH falls below 6.9. 
-always lower in Type II fibres than Type I fibres. 
-increased after a period of endurance training.",A,A
-"A teacher sets up a reward system for her elementary school students. At the end of each day, she gives a sticker to each student who showed up on time that morning. At the end of each week, she gives a sticker to any student who got above a 90% on three quizzes in a row. After months of this regimen, she finds that performance on the quizzes has increased significantly but that tardiness has only decreased slightly. Which of the following best explains the teacher’s observation? 
-Variable ratio schedules create the strongest responses and behavior that is the least susceptible to extinction. 
-The students had more intrinsic motivation to do well on quizzes than to show up on time. 
-The students’ behavior change was stronger in response to a fixed-ratio schedule than it was to a continuous reinforcement schedule. 
-The students’ behavior change was stronger in response to a fixed-ratio schedule than it was to a variable-interval schedule.",C,B
-"The net production of ATP via substrate-level phosphorylation in glycolysis is: 
-2 from glucose and 3 from glycogen. 
-2 from glucose and 4 from glycogen. 
-3 from glucose and 4 from glycogen. 
-3 from glucose and 2 from glycogen.",A,B
-"Pregnancy tests are extremely sensitive and function by detecting levels of B-hCG, or human chorionic gonadotropin, in urine. This hormone is secreted by what tissue, and what is its function? 
-Corpus luteum, self-maintenance 
-Endometrium, cell division 
-Blastocyst, increase in blood flow 
-Blastocyst, corpus luteum maintenance",D,D
-"The son of a bricklayer goes to college and i) becomes a teacher at a medical school, ii) gets promoted to tenured professor, and iii) moves across the country for a new tenured professor position at a different school. Sequentially, this man has experienced: 
-intergenerational mobility with respect to the father, horizontal mobility, horizontal mobility 
-intragenerational mobility with respect to the son, upward mobility, upward mobility 
-intergenerational mobility with respect to the father, upward mobility, horizontal mobility 
-intragenerational mobility with respect to the son, horizontal mobility, upward mobility",C,C
-"DNA polymerase creates new DNA by adding complimentary nucleotides to a template strand from the original double-stranded DNA. If a section of the template strand had a ration of 3:2 of A:T bases, what is the ration of A:T in the newly synthesized complimentary strand of DNA? 
-3:02 
-1:01 
-2:03 
-cannot be determined",C,2:3
-"How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)? 
-2CO2 and 2ATP 
-2CO2 and 16ATP 
-2CO2 and 12ATP 
-2CO2 and 1ATP",D,A
-"A young child is brought to a psychologist for evaluation of their home situation. The child is placed in the middle of the floor, with the mother on one side and the psychologist on the other. The mother then leaves for a short while, and then returns. Which of the following would be a concerning sign during this evaluation? 
-Decreased exploration when the mother is out of the room. 
-Crying and returning to the mother upon return. 
-Avoiding the mother upon return. 
-Exploring the room before the mother leaves.",C,C
-"In a fit of passion, the spectator of a political debate exclaims that “welfare recipients are all lazy.” The spectator’s thought process is an example of: 
-prejudice 
-discrimination 
-ethnocentrism 
-conflict theory",A,A
-"Neonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion? 
-Increases surface permeability 
-Maintains alveoli in an open state 
-Depresses cilia of the lung 
-Dilates blood vessels",B,B
-"Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?
-﻿
-The unbalanced reaction of ethane gas to carbon dioxide and water is as follows:
-
- C2H4 + O2 —> CO2 + H2O 
-78g 
-528g 
-264g 
-156g",C,264g
-"Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
-
-Based on the article, what would be an important thing for a person to do after sauna use? 
-Shower in cold water. 
-Exercise. 
-Eat a meal. 
-Replenish fluids with filtered water.",D,D
-"Which of the following is not an amino acid? 
-Glutamic acid 
-Aspartic acid 
-Glutamine 
-Palmitic acid",D,D
-"Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise? 
-60 kJ 
-150 kJ 
-300 kJ 
-500 kJ",C,C
-"The low intake of carbohydrate in the diet: 
-does not influence exercise performance in events lasting less than 10 minutes. 
-affects the resting muscle pH. 
-may impair high intensity exercise performance. 
-results in greater reliance on muscle glycogen during exercise.",C,C
-"Which of the following processes is not used to modify protein structure after translation has occurred? 
-Lipidation. 
-Attachment of more amino acids via peptide bonds. 
-Glycosylation. 
-Phosphorylation.",B,B
-"Which of the following promotes glucose and amino acid uptake by muscle? 
-Adrenaline 
-Insulin 
-Glycogen 
-Cortisol",B,B
-"When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly: 
-converted into arginine and released from the muscle. 
-converted into alanine and glutamine and released from the muscle. 
-converted into urea and released from the muscle. 
-used to synthesise purines and pyrimidines in the muscle.",B,B
-"A certain molecule acts by binding to cytochrome oxidase A3, the final enzyme in the electron transport chain. Administration of a large dose of this substance to a human would likely: 
-Lead to death due to an inability of the cell to pass electrons to oxygen, thus stopping aerobic respiration and asphyxiating the cells. 
-Lead to death due to an inadequate supply of ADP to accept a phosphate group at the ATP synthase enzyme. 
-Have no effect as cells would switch which macronutrient they metabolize to circumvent the blocked biochemical pathway. 
-Increase the cell’s ATP production as negative feedback would cause the cell to up-regulate anaerobic pathways.",A,A
-"In response to period of extreme psychological trauma, a patient begins experiencing a feeling of detachment. He says, “I felt like it wasn’t real while it was happening. I was just watching myself do it without any control. I mean, you know, I knew it was happening but I didn’t feel like it was.” The patient is describing: 
-Dissociative identity disorder 
-An anxiety disorder 
-Depersonalization disorder 
-A schizophrenic episode",C,C
-"Endurance training increases the muscle's capacity to: 
-contract faster. 
-break down phosphocreatine. 
-burn fat and carbohydrate. 
-generate energy anaerobically.",C,C
-"Metabolism is determined by the: 
-size of proteins in the cell. 
-availability of amino acids. 
-proteins formed as dictated by the genetic material. 
-amino acid composition of the ribonucleic acids.",C,C
-"In order to determine the doppler shift in perceived sound frequency, the following variables must be known:
-I. speed of sound in medium
-II. Time of interaction between sound source and detector
-III. distance between source and detector
-IV. frequency of emitted sound 
-I only 
-I and III 
-II and IV 
-I and IV",D,I and IV
-"The key attribute in successful marathon running is: 
-strength. 
-power. 
-stride length. 
-stamina.",D,D
-"Which of the following phases are common to cells undergoing meiosis and mitosis?
-I. G0
-II. phase G2
-III. phase S phase 
-I only 
-I and II only 
-II and III only 
-I, II, and III",C,II and III only
-"If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately: 
-400 kJ/min. 
-200 kJ/min. 
-80 kJ/min. 
-40 kJ/min.",D,A
-"In a double stranded molecule of DNA, the ratio of purines : pyrimidines is: 
-variable. 
-determined by the base sequence in RNA. 
-genetically determined. 
-always 1:1.",D,D
-"Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
-
-The review article sources a lot of data from Finland population studies, where the incidence of sauna use is substantially higher than most countries. Using the data, which of the following is something that is more plausible in Finland than elsewhere? 
-More gold medals in adolescent skiing. 
-An 86-year old male mayor who is revered in the community. 
-Increased rate of pets in the household. 
-Improved marriage satisfaction rates.",B,B
-"Karen is a college student working on developing a stronger sense of self-esteem and self-efficacy with her therapist. She has noticed a great change in her ability to handle situations after 3 months of therapy. Which of the following would NOT be a strategy that her therapist would ask her to employ to raise her sense of self-efficacy? 
-Seek positive feedback from friends. 
-Put in daily practice on the tasks she wishes to improve on. 
-Find others her age and ability who excel at tasks she is interested in. 
-Avoid potential pitfalls by withholding from tasks she is not proficient in.",D,D
-"Phophocreatine resynthesis during recovery from exercise is inhibited by: 
-an excess of creatine. 
-hyperventilation. 
-an excess of oxygen. 
-a lack of oxygen.",D,D
-"A thin layer chromatography is performed on both the reactants and products of a reaction. It is found that the products have an Rf value that is significantly higher than the reactants. Which of the following could adequately describe this reaction: 
-SN2 reaction converting an alkyl bromide to an alkyl chloride 
-Addition reaction converting an alkene to an alcohol 
-Nucleophilic acyl substitution reaction converting an ester to an anhydride 
-Elimination reaction converting an alcohol to an alkene",D,D
-"The synthesis of glucose from lactate, glycerol, or amino acids is called: 
-glycogenolysis. 
-glycolysis. 
-lipolysis. 
-gluconeogenesis.",D,D
-"After what period of time does maximal dynamic exercise become predominantly aerobic? 
-10 seconds 
-30 seconds 
-1 minute 
-4 minutes",C,C
-"Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water? 
-H2O(s) has a greater density than H2O(l), which causes the solid to form liquid under high pressure conditions. 
-H2O(s) has a greater density than H2O(l), which results from the hydrogen bonds formed between water molecules. 
-H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds. 
-H2O(s) has a lower density than H2O(l) which causes the solid to form liquid under low pressure conditions.",C,A
-"Mg(OH)2 is slowly dissolved in 500 mL of 25 oC water until the solution becomes fully saturated. Which of the following occurs when 10.0 mL of 0.1 M HCl is added? 
-MgCl2 precipitates 
-Mg(OH)2 precipitates 
-Ksp for Mg(OH)2 increases 
-[H2O] increases",D,B
-"Myoclonic epilepsy and ragged-red fiber (MERRF) is an extremely rare disorder that affects neuromuscular systems. MERRF results from a mutation in mitochondrial DNA (mtDNA) that impairs protein synthesis, oxygen consumption, and energy production. When an affected male and a normal female reproduce, which of the following best predicts the expected phenotypic ratios of the offspring? 
-None of the offspring will be affected 
-All males and no females will be affected 
-Half of males and half of females will be affected 
-One-fourth of the offspring will be affected",A,C
-"Selective Androgen Receptor Modulators (SARMs) are: 
-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones. 
-steroid drugs that act on androgen receptors antagonising the effects of natural steroid hormones. 
-non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones. 
-non-steroid drugs that act on androgen receptors inhibiting the effects of natural steroid hormones.",C,C
-"An action potential arriving at the motor endplate causes release of: 
-acetylcholine which traverses the neuromuscular junction. 
-sodium ions which binds to sodium receptors on the muscle membrane. 
-calcium ions which initiate an action potential along the muscle fibre. 
-noradrenaline which increases muscle metabolic activity.",A,A
-"All of the following are example of sensory, or neural, adaptation EXCEPT: 
-After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back. 
-After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you. 
-After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light. 
-After first walking into an anatomy lab, you no longer notice the smell of formaldehyde.",C,A
-"A scientist, using electrodes, is stimulating a group of neurons in the hypothalamus and recording their membrane potential changes. She observes a sharp rise in membrane potential when she first stimulates them, the the difference of 100mV. When she tries another stimulation immediately after the first, there is no response. However, when she increase the amount of voltage she supplies to the second shock, she observes a similar response to the first. What time period of stimulation would the second shock be characterized in regards to membrane potential? 
-Depolarization 
-Repolarization 
-Hyperpolarization 
-Resting potential",C,A
-"The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H: 
-yields 8 molecules of acetyl-CoA and some ATP and water. 
-yields 16 molecules of acetyl-CoA only. 
-yields carbon dioxide and water only. 
-does not involve oxygen.",A,A
-"What is the most likely outcome of this modification?
-﻿
-An RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:
-
- GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA… 
-
-The modified sequence is as follows:
-
- GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA… 
-Absence of the protein 
-Production of a similar-sized but dysfunctional protein 
-No change 
-Production of a larger, likely dysfunctional protein",D,B
-"Glycolysis is the name given to the pathway involving the conversion of: 
-glycogen to glucose-1-phosphate. 
-glycogen or glucose to fructose. 
-glycogen or glucose to pyruvate or lactate. 
-glycogen or glucose to pyruvate or acetyl CoA.",C,C
-"A psychologist conducts an experiment in which subjects are asked to learn a series of “facts” which are actually statements that have been fabricated by the research team. The subjects consist of undergraduate students at the university where the experiment is being conducted. The subjects are randomly assigned to groups that are compensated either $10 or $20 for their participation, are given either 15 minutes or 30 minutes to learn the facts, and are asked to recall the facts either in the same room in which they learned the facts or in a very different, unfamiliar setting. Which of the following are dependent variables in this experiment?
-I. The amount the subjects were compensated.
-II. The room in which the subjects were asked to recall facts.
-III. The number of facts the subjects can recall.
-IV. The time the subjects were given to learn the facts. 
-II only 
-III only 
-I and IV only 
-I and III and IV only",B,III only
-"Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities? 
-An accumulation of inorganic phosphate. 
-Development of hyperosmolality in the muscles. 
-An excess of antioxidants. 
-A lack of potassium.",A,A
-"A muscle fibre relaxes when: 
-the nerve stimulus is removed. 
-the nerve stimulus is too forceful. 
-the actin binding sites are uncovered. 
-the actin binding sites are saturated.",A,A
-"The pyruvate dehydrogenase complex: 
-is located in the sarcoplasm. 
-catalyses the conversion of pyruvate to acetyl CoA. 
-catalyses the conversion of pyruvate to lactate. 
-catalyses the conversion of lactate to pyruvate.",B,B
-"Hydrogen ions are formed when: 
-glycogen becomes depleted. 
-phosphocreatine breakdown occurs. 
-pyruvate is converted to lactate. 
-glycolysis is being used as a major means of resynthesising ATP.",D,C
-"Our genetic material is made up of: 
-deoxyribonucleic acid. 
-ribonucleic acid. 
-dinitronucleic acid. 
-protein.",A,A
-"A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting? 
-Histrionic 
-Narcissistic 
-Paranoid 
-Obsessive-compulsive",C,B
-"Vygotsky’s sociocultural development theory attempts to describe the interaction between the mental function children are born with and how they develop those into what they possess as adults. One of the important components of this is the zone of proximal development. Which of the following statements accurately describes an individual in the zone of proximal development? 
-A baseball player hits baseballs from a tee in order to build muscle memory. 
-A concert flute player falls short of finishing a piece that has a very complex ending without mistakes 
-A high school English student submits a paper for review by his professor. 
-A high diver takes instruction from her coach to improve her form on a specific move.",D,D
-"A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man’s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud’s theory of psychosexual development, what stage would this young man be fixated in? 
-Anal 
-Phallic 
-Latent 
-Genital",B,A
-"What type of covalent bonds link the amino acids in a protein? 
-Peptide bonds 
-Hydrogen bonds 
-Ionic bonds 
-Glycosidic bonds",A,A
-"Walking down a street late at night, an adult male pedestrian notices a young female on the ground, not moving. The female is on the opposite side of the street. Crossing the street, the pedestrian notices that the young woman appears both much wealthier than he is and is of a different ethnicity. Seeing no one else present, the pedestrian renders aid. According to the bystander effect, which of the following would change how the pedestrian reacts? 
-The person requiring aid appearing to be of a lower socioeconomic class rather than a higher one 
-The presence of another group of people one block up the street 
-The person requiring aid appearing to be the same ethnicity rather than a different one 
-The presence of one other person who is already approaching the girl",D,A
-"Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
-
-Which of the following is a likely paragraph that follows this excerpt in the article? 
-A paragraph on a protein that facilitates intracellular function in response to heat. 
-A paragraph on increased heart attacks in Eskimo populations. 
-A recap of Finland’s water polo team excellence. 
-A study on rats exposed to high levels of heat.",A,A
-"Muscle lactate production increases when: 
-oxygen is readily available. 
-pyruvate cannot be formed from glucose breakdown. 
-the pH of the muscle falls. 
-glycolysis is activated at the onset of exercise.",D,D
-"Triacylglycerides consist of I. A ribose backbone II. a glycerol backbone III. three phosphodiester linkages IV. three ester linkages 
-I and III 
-II only 
-II and III 
-II and IV",D,D
-"Noncompetitive inhibition differs from uncompetitive inhibition in that a noncompetitive inhibitor binds to an allosteric site on the enzyme and prevents it from catalyzing a reaction, whereas uncompetitive inhibitors bind to the enzymesubstrate complex and prevent catalysis. Increasing the substrate concentration would have which of the following effects? 
-Increasing impact of uncompetitive inhibitor and decreasing concentration of noncompetitive inhibitor 
-Decreasing impact of uncompetitive inhibitor and increasing impact of noncompetitive inhibitor. 
-Increasing impact of uncompetitive inhibitor 
-No effect",C,D
-"Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams? 
-He decides that the first test is always harder than the others. 
-He says the teacher graded his exam harder because she doesn’t like him. 
-He says it was due to some home circumstances that won’t be present during the next exam. 
-He critiques his study methods and tries to find out which led to poor returns.",A,D
-"In nerve cells, microtubule-associated proteins (MAPs), most notably MAP2 and MAP tau, act to stabilize microtubules. In a mouse model, a mutant is developed that vastly reduced function across all families of MAPs, leading to increased microtubule degradation. Which cellular activity would likely be most affected? 
-Cardiac muscle contraction 
-Transcription of mRNA from DNA 
-Krebs cycle 
-Meiosis",D,A
-"The trigger to initiate the contractile process in skeletal muscle is: 
-potassium binding to myosin. 
-calcium binding to tropomyosin. 
-ATP binding to the myosin cross bridges. 
-calcium binding to troponin.",D,D
-"The sarcoplasmic reticulum in muscle cells acts as a: 
-store of digestive enzymes. 
-store of sodium ions. 
-store of lipid. 
-store of calcium ions.",D,D
-"Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development? 
-Acetyl choline and noradrenaline. 
-Dopamine and acetyl choline. 
-Glutamate and serotonin. 
-Dopamine and serotonin.",D,D
-"Oxygen is used: 
-in glycolysis. 
-in the conversion of fatty acids to acetyl CoA. 
-in the tricarboxylic acid cycle (Krebs' cycle). 
-in glycogenolysis.",B,"B, C"
-"Mutations are errors in DNA that: 
-are always harmful. 
-only occur in the presence of carcinogens. 
-increase tumour growth. 
-occur spontaneously at a low rate.",D,D
-"The enzymes of glycolysis are located in the: 
-mitochondrion. 
-nucleus. 
-cytoplasm. 
-lysosomes.",C,C
-"Rational choice theory is premised on the concept that actions are chosen based on the benefit to the individual. The three main assumptions of rational theory are completeness, transitivity, and independence of variables. This is most accurately described as what kind of system? 
-Hierarchical 
-Patriarchal 
-Matriarchal 
-Oligarchic",A,A
-"Which products of ADP degradation increase in concentration in the blood during multiple sprint sports? 
-Ammonia, hypoxanthine and uric acid. 
-Ammonia, urea and uric acid. 
-Ammonia, urea and creatinine. 
-Ammonia, urea and creatine.",A,A
-"The rate limiting enzyme of glycolysis is: 
-phosphorylase. 
-hexokinase. 
-pyruvate dehydrogenase. 
-phosphofructokinase.",D,D
-"A fundamental cause of fatigue in high intensity exercise is: 
-a fall in the cell concentration of ADP. 
-inhibition of ATP production. 
-failure of the ATP supply to match the demand. 
-lack of skill.",C,C
-"The rate of blood lactate accumulation is determined by: 
-the rate of muscle lactate production and the rate of muscle lactate efflux. 
-the rate of anaerobic glycolysis. 
-the rate of muscle glucose uptake. 
-the difference between the rate of lactate appearance and the rate of lactate clearance.",D,D
-"Type I muscle fibres have the following characteristics: 
-white, glycolytic, slow contracting. 
-white, oxidative, slow contracting. 
-red, oxidative, fast contracting. 
-red, oxidative, slow contracting.",D,B
-"If a gas occupies 0.1L at 200atm, what will its volume be at 1atm? 
-slightly less than 20L 
-20L 
-slightly more than 20L 
-2000L",A,B
-"Assuming the circulatory system in humans obeys Bernoulli’s principle of fluid dynamics, which of the statements most accurately compares the blood pressure in a capillary of the neck to a capillary with an equal crosssectional area in the right knee? 
-The pressure in the neck is greater than the pressure in the knee because of the increase in pressure head 
-The pressure in the neck is equal to the pressure in the knee because of the equal dynamic pressure according to the continuity equation 
-The pressure in the knee is greater than the pressure in the neck because of the increase in pressure head 
-An accurate comparison cannot be given without knowledge of the fluid’s density and viscosity",C,A
-"Sodium bicarbonate ingestion improves middle distance running performance by: 
-elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. 
-reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. 
-elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle. 
-elevating the pre-exercise muscle pH.",A,A
-"An individual presents to the clinic for initial evaluation and establishment of care. The patient was born 46, XY, but identifies as a female. Her preferred pronouns are She/Her. Additionally, she is sexually active with females only. What would describe the gender and orientation of this individual? 
-Cis-gender, heterosexual 
-Transgender, heterosexual 
-Cis-gender, homosexual 
-Transgender, homosexual",D,D
-"Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high? 
-Glutamine 
-Glucose 
-Carnosine 
-Amylase",C,C
-"A team of engineers constructing signal lights for airplanes that they can use to guide them to runways are attempting to determine the brightness needed for the pilot to be able to detect the tower at 1 mile away. They set the light to a test brightness and establish communication with an inbound pilot. When the pilot is 1 mile away from the tower, he says he cannot see the light. In terms of Signal Detection Theory, what would this be called? 
-Hit 
-Miss 
-False alarm 
-Correct rejection",B,B
-"New York City is home to over 7 million inhabitants from a diverse range of backgrounds. Although the city itself has characteristics, there are several smaller areas, usually congregations of people from the same nationality, who adhere to customs from their prior country of inhabitance. For example, in Little Italy, a small town in the city, it is still customary to greet people with cheek kisses. This is an example of what kind of phenomenon? 
-Subculture 
-Counterculture 
-Microculture 
-Culture lag",A,A
-"Prosthetic groups are: 
-required by all enzymes in the cell. 
-loosely bound to enzymes via hydrogen bonds. 
-sites on the enzyme molecule that permit allosteric modification of enzyme activity. 
-tightly bound to enzymes and are required for their activity.",D,D
-"Codons are composed of: 
-triplet sequences of nucleotide bases in mRNA or DNA . 
-quadruplet sequences of nucleotide bases in mRNA or DNA. 
-triplet sequences of amino acids in polypeptide chains. 
-triplet sequences of deoxyribose sugars in DNA.",A,A
-"In games like soccer the blood lactate concentration: 
-rarely increases above 3 mM. 
-is usually lower at the end of the game than at the end of the first half. 
-is usually higher at the end of the game than at the end of the first half. 
-increases throughout the course of the game as the players become more fatigued.",B,C
-"All of the following are true regarding the function of neurons EXCEPT: 
-Hyperpolarization at the end of an action potential is one mechanism by which neurons limit the rate at which action potentials may fire. 
-The flow of sodium into the neuron depolarizes the membrane in the first phase of an action potential. 
-The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites. 
-An action potential is initiated when the axon hillock reaches the threshold potential.",C,C
-"Which of the following is true? 
-Increasing the protein intake above 3 grams per kg body mass per day will stimulate muscle growth and increase strength. 
-Creatine supplements can increase muscle strength and power. 
-Amino acid supplements can increase muscle strength and power. 
-Muscle damage is induced by shortening contractions.",B,B
-"Which of the following statements is false? 
-Ammonia is produced in repeated high intensity exercise. 
-Muscle lactate accumulation does not begin until at least 5 seconds of intermittent muscle contractions have taken place. 
-Muscle phosphocreatine depletion begins in the first few seconds of high intensity exercise. 
-With an increasing number of repeated sprints the rate of accumulation of lactate in muscle declines.",B,B
-"The most rapid method to resynthesize ATP during exercise is through: 
-glycolysis. 
-phosphocreatine breakdown. 
-tricarboxylic acid cycle (Krebs' cycle). 
-glycogenolysis.",B,B
-"The electron transport chain, which is embedded in the mitochondrial membrane, exists primarily to generate new molecules of ATP for use by the cell. This is accomplished by a positive gradient of H+ ions that are formed outside the membrane which then pass back through a specialized channel known as ATP synthase. The energy created from this phosphorylates an ATP to an ATP, known as oxidative phosphorylation. The mechanism by which H+ returns to the inside of the mitochondria is known as what? 
-Passive transport 
-Passive diffusion 
-Active transport 
-Endocytosis",A,A
-"Which of the following molecules will stop being produced first when oxygen is no longer supplied to the cell? 
-Oxaloacetate 
-Pyruvate 
-Water 
-Adenosine triphosphate",C,D
-"As a result of substance abuse throughout adolescence, a young adult suffers from a number of psychological symptoms reflecting diminished executive functioning. Which of the following are likely true of this patient?
-I. Pathological changes to the prefrontal cortex.
-II. Increased susceptibility to auditory hallucinations.
-III. Reduced behavioral impulse control. 
-I only 
-III only 
-I and III only 
-II and III only",C,I and III only
-"Glycogen breakdown in muscle initially results in the formation of: 
-glucose. 
-glucose-1-phosphate. 
-glucose-6-phosphate. 
-glucose-1,6-diphosphate.",B,B
-"A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake? 
-Study at a health smoothie store instead of a coffee shop. 
-Reward himself with a savory meal every Saturday for meeting his calorie goals. 
-Snap himself with a rubber band when he eats a high calorie snack. 
-Hide snack food out of sight within his house.",D,C
-"In an SDS-PAGE procedure, the SDS serves as a detergent. Why are the proteins treated with a detergent before being run through the electrophoresis gel? 
-To coat the proteins with a large positive charge, since amino acid side chains may have positive, negative, or neutral charges, and a large uniform charge is necessary to get good separation in the gel. 
-To allow the electrophoresis to separate the proteins solely on the basis of the length of the primary sequence. 
-To prevent the protein from denaturing so that the electrophoresis can accurately resolve the proteins on the basis of tertiary structure. 
-To break the intramolecular bonds holding the tertiary and primary structure of the protein together, thereby generating linear fragments that may be sorted on size.",B,A
-"For very high force contractions lasting 1-2 seconds, the initial energy source is from: 
-Glycolysis. 
-creatine phosphorylation. 
-phosphocreatine stores. 
-ATP stores.",D,C
-"Which of the following factors does not influence success in sport? 
-Ability to tolerate heavy training without succumbing to illness or injury. 
-Tactics. 
-The diet. 
-Ingestion of carnitine during exercise.",D,D
-"The lining of the digestive tract and the respiratory tract develops from which germ layer? I. Endoderm II. Mesoderm III. Ectoderm 
-I only 
-II only 
-III only 
-I and II",A,A
-"A transmembrane protein being isolated in the laboratory is found to be composed of four different amino acids in varying quantity. They are, in order of frequency, glycine, tyrosine, arginine, and isoleucine. Of these amino acids, which is most likely to be inside the transmembrane domain? 
-Glycine 
-Tyrosine 
-Arginine 
-Isoleucine",D,A
-"Which of the following nucleotide bases is not found in RNA? 
-Thymine 
-Adenine 
-Uracil 
-Guanine",A,A
-"Fast-twitch fibres contain: 
-a relatively large number of mitochondria and low ATPase activity. 
-a relatively small number of mitochondria and low ATPase activity. 
-a relatively small number of mitochondria and high ATPase activity. 
-a relatively large number of mitochondria and high ATPase activity.",C,C
-"The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of: 
-six molecules of water. 
-two molecules of ATP. 
-three molecules of ATP. 
-thirty-eight molecules of ATP.",B,B
-"Acute Myeloid Leukemia is a malignant cancer in which myeloid progenitor cells become rapidly dividing and retain their semi-stem cell state. Under normal circumstances, which of the following cell types would arise from this stem cell? 
-NK cell 
-Platelet 
-T cell 
-Lymphoid progenitor",B,B
-"Lactate and hydrogen ions leave the muscle: 
-via a cotransport mechanism with carnosine. 
-via an active transport mechanism. 
-via a protein transporter molecule. 
-by simple diffusion.",C,C
-"There are five stages of mitosis that must be carried out correctly for a cell to properly divide. Match the stage of mitosis with its proper component:
-Prophase — Dissolution of nucleoli 
-Metaphase — Formation of two distinct nuclear membranes 
-Cytokinesis — Separation of sister chromatids to their respective poles 
-Telophase — Formation of the equatorial plate 
-Anaphase — Separation of the cytoplasm and organelles",A,"A. Prophase — Dissolution of nucleoli
-B. Metaphase — Formation of the equatorial plate
-C. Anaphase — Separation of sister chromatids to their respective poles
-D. Telophase — Formation of two distinct nuclear membranes
-E. Cytokinesis — Separation of the cytoplasm and organelles"
-"A study examined admissions to exceptionally selective colleges. When examining the correlates of admission acceptance, two obvious factors that strongly correlated with admissions were GPA and standardized test scores, with correlation values of +0.41 and +0.55 respectively. However, the study also demonstrated that those students who had social networks that overlapped with the alumni networks of the selective colleges were even more likely to be admitted, with a correlation between social network and alumni network of +0.61. This correlation demonstrates: 
-the value of cultural capital. 
-a meritocracy.  
-he value of social capital. 
-a false association.",C,C
-"A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity? 
-Passive 
-Active 
-Natural 
-Artificial",A,A
-"The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries? 
-Strong central government. 
-An economy centralized around one natural resource. 
-A diversified and developed economy. 
-Small percentage of very high class individuals.",C,C
-"Kinase reactions: 
-inhibit ATP breakdown. 
-involve the addition or removal of a phosphate group. 
-involve the addition or removal of a ketone group. 
-involve the addition or removal of an amino acid to a polypeptide chain.",B,B
-"The main fate of lactate that leaves muscle and enters the circulation is: 
-conversion to urea in the liver. 
-conversion to glucose in the heart. 
-excretion via the kidneys. 
-uptake and oxidation by other tissues.",D,D
-"The ATP store in muscle can only supply energy in high intensity exercise for about: 
-2 milliseconds. 
-2 seconds. 
-10 seconds. 
-20 seconds.",B,C
-"Glycogen breakdown in exercising muscle is activated by: 
-insulin. 
-cortisol. 
-increased pH. 
-none of the above.",D,None of the above.
-"According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study? 
-A two month old female infant raised in a safe, stable environment 
-A five month old male infant raised in a safe, stable environment 
-An eight month old male infant raised by a single caregiver who frequently neglect the child 
-A thirteen month old female infant raised by two caregivers who occasionally neglect the child",A,C
-"Creatine is synthesized from: 
-amino acids in the muscles. 
-amino acids in the liver. 
-amino acids in the kidneys. 
-creatinine in the kidneys.",B,B
-"The hypothalamus controls the stress response of the body by releasing CRF, which leads to eventual release of cortisol, the body’s stress hormone, systemically. This trigger is eventually suppressed by which mechanism? 
-Constriction of blood flow to the adrenal gland. 
-Exhaustion of the body’s store of CRF. 
-Negative feedback loop of cortisol. 
-Release of CRF-inhibitory factor.",C,C
-"A local politician starts a task force to reduce prejudice and hate crimes, and the task force provides recommendations for increased access to education, paid community improvement projects open to people from different, possibly conflicted, groups, and stricter anti-hate ordinances to be passed at the local level. These recommendations are based on:
-I. Self-esteem hypothesis
-II. Contact hypothesis
-III. Hypothesis
-IV. Legal hypothesis 
-I, II, and III 
-II, III, and IV 
-I, III, and IV 
-I, II, and IV",D,"I, II, and III"
-"The energy for all forms of muscle contraction is provided by: 
-ATP. 
-ADP. 
-phosphocreatine. 
-oxidative phosphorylation.",A,A
-"How can several different proteins be produced from the same gene? 
-By selective transcription of different parts of the DNA in the gene. 
-By doubling or tripling the length of the mRNA molecule produced from the primary transcript. 
-The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing. 
-By splicing of the mRNA molecule after it has been formed from the primary transcript.",C,C
-"Phosphocreatine in the muscle cell is found in: 
-the mitochondria. 
-all subcellular compartments. 
-the sarcolemma. 
-the cytoplasm.",D,D
-"A scientist using mouse models to determine the response of blood hormones to large levels of glucose in the body discovers a new hormone not previously described. According to his data, this hormone is found both inside and out of cells when carrying out its function, increase the amount of nucleic acid in the cell while functioning, and are derived from a structure containing four hydroxycarbon rings. This will likely be categorized as which type of hormone? 
-Enzymatic 
-Steroid 
-Peptide 
-Amino acid",B,B
-"The coding sequences of genes are called: 
-extrons. 
-exons. 
-introns. 
-codons.",B,B
-"Each of the following is an example of the transmission of knowledge through symbolic culture EXCEPT:
-I. A young macaque monkey learning to rinse off food in the ocean from an older monkey, even when the food is not covered in dirt or sand.
-II. A child learning the rules of baseball from a parent.
-III. A new group of inductees in a military organization experiencing hazing rituals from older students, which they then later carry out on new recruits. 
-I only 
-III only 
-I and III only 
-II and III only",A,A
-"One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression? 
-Increased histone acetyltransferase activity 
-Decrease in histone deacetyltransferase activity 
-Increase in methylation activity 
-Increase in heterochromatin:euchromatin ratio",C,D
-"Anaerobic metabolism refers to the generation of ATP: 
-without the involvement of ADP. 
-without the use of glycogen. 
-without the use of oxygen. 
-in the absence of available oxygen.",C,C
-"Which of the following molecules does not form part of DNA? 
-Purine 
-Pyrimidine 
-Deoxyribose 
-Amino acid",D,D
-"How many electrons does gold (Au) possess that have a quantum number l = 2? 
-9 
-23 
-29 
-79",C,A
-"Sauna use, sometimes referred to as ""sauna bathing,"" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]
-
-According to the article, which of the following is NOT a benefit of sauna use? 
-Decreased risk of heart attacks. 
-Increase in stroke volume. 
-Improved mental health. 
-Decreased rate of erectile dysfunction.",D,D
-"With an increasing number of sprints the: 
-anaerobic contribution progressively increases. 
-pH of the muscle falls below 6.0. 
-blood glucose concentration falls below 3 mmol/L. 
-relative contribution of aerobic metabolism increases.",D,A
-"Fire hoses always have a nozzle on the end of the hose, which in part works by decreasing the area of the water exiting the fire hydrant to create a more forceful stream. If the starting velocity of water from a fire hydrant is 2 m/s, pressure is kept constant, and the end of the nozzle is 1/3 the area of the start of the hose, what is the final velocity of water as it exits? 
-2 m/s 
-8 m/s 
-5 m/s 
-6 m/s",D,B
-"Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate: 
-6 ATP. 
-5 ATP. 
-4 ATP. 
-3 ATP.",B,A
-"The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about: 
-1-2 seconds. 
-5-10 seconds. 
-30-40 seconds. 
-50-60 seconds.",B,B
-"The sex of a child is dictated by the inheritance of: 
-the number of X chromosomes from the mother. 
-a recessive allele on the X chromosome. 
-a single Y chromosome from the mother. 
-a single Y chromosome from the father.",D,D
-"The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: 
-frequently rises by 1 - 3 mM. 
-remains relatively unchanged. 
-frequently falls by 1 - 3 mM. 
-falls to hypoglycaemic levels.",A,C
-"During DNA replication, mistakes are coded into the leading strand about once every 100,000/1 million copies. This DNA is subject to proofreading by several mechanisms. If a mistake is noted and the incorrect base is removed shortly following the time RNA primer is removed, this would most likely be the work of which repair mechanism? 
-DNA polymerase I 
-DNA polymerase III 
-Mismatch repair mechanism 
-Endonuclease repair",A,A
-"Which of the following statements is false? 
-Phosphofructokinase is the rate limiting enzyme in glycolysis. 
-Phosphorylase activity is higher in Type II fibres than in Type I fibres. 
-Endurance training increases the amount of TCA cycle enzymes in muscle. 
-Oxygen is consumed in the TCA cycle.",D,D
-"Each of the following are aspects of the McDonaldization of Society EXCEPT: 
-Rationalization of decisions into cost/benefit analysis structures and away from traditional modes of thinking 
-Bureaucratic organization that formalizes well-establish division of labor and impersonal structures 
-A dissolution of hierarchical modes of authority into collaborative teambased decision protocols 
-An intense effort on achieving sameness across diverse markets",C,C
-"The descending loop of Henle of the nephron of the kidney is permeable to which of the following substances? 
-Na+ 
-H2O 
-K+ 
-Cl-",B,"A, B, D"
+amplitude",A,A
+"When you tap a piece of wood, it will produce a characteristic sound related to its 
+wavelength 
+amplitude 
+period 
+natural frequency",D,D
+"When wind speeds up as it blows over the top of a hill, atmospheric pressure there 
+increases 
+decreases 
+isn’t affected 
+reduces to zero",B,B
+"When white light passes through a prism, the light that bends more than green is 
+red 
+yellow 
+blue 
+None of these",C,C
+"If you travel at high speed, then compared with your friends who “stay at home,” you are 
+older. 
+younger. 
+neither younger nor older. 
+longer.",B,Younger
+"The component of velocity that can remain constant for a tossed baseball is 
+horizontal 
+vertical 
+Either of these 
+None of these",A,A
+"The crystals that make up minerals are composed of 
+atoms with a definite geometrical arrangement. 
+molecules that perpetually move. 
+X-ray patterns. 
+3-dimensional chessboards.",A,A
+"Two vectors, one 3 N and the other 4 N, can have a resultant of 
+0 N 
+5 N 
+8 N 
+Any of these",B,Any of these
+"Radioactivity has been around on Earth since the 
+middle of the 1900s 
+Industrial Revolution 
+advent of medical technology 
+Earth formed",D,D
+"When the shadow of the Moon falls on Earth, we have a 
+lunar eclipse. 
+solar eclipse. 
+solar eclipse if it’s daytime and lunar eclipse if it’s nighttime. 
+very dangerous event.",B,B
+"In both fission and fusion, energy is released while mass 
+decreases 
+remains unchanged; is conserved 
+increases 
+may decrease or increase",A,A
+"When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to 
+remain unchanged 
+decrease 
+increase 
+spread out uniformly",C,Increase
+"If the volume of an object were to double, with no change in mass, its density would 
+halve. 
+double. 
+be the same. 
+None of these.",A,A
+"The pressure at the bottom of a pond does NOT depend on the 
+acceleration due to gravity. 
+water density. 
+depth of the pond. 
+surface area of the pond.",D,D
+"The blueness of the daytime sky is due mostly to light 
+absorption 
+transmission 
+reflection 
+scattering",D,D
+"A galvanometer can be calibrated to read electric 
+current 
+voltage 
+Either of these 
+Neither of these",C,C
+"Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C? 
+19°C 
+22°C 
+30°C 
+Higher than 30°C",B,B
+"To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is 
+one-quarter. 
+one-half. 
+the same. 
+dependent on your distance from the mirror.",B,A
+"The vibrations in a transverse wave move in a direction 
+along the wave 
+perpendicular to the wave 
+Both of these 
+Neither of these",B,B
+"A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is 
+1131 Hz 
+1134 Hz 
+1137 Hz 
+More information is needed",D,C
+"Huygens’ principle for light is primarily described by 
+waves 
+rays 
+particles 
+photons",A,A
+"When the temperature of a strip of iron is increased, the length of the strip 
+also increases. 
+actually decreases. 
+may increase and may decrease. 
+decreases in width as it gets longer.",A,A
+"When light undergoes interference, it can sometimes 
+build up to more than the sum of amplitudes 
+cancel completely 
+Both of these 
+Neither of these",B,C
+"When the color yellow is seen on your TV screen the phosphors being activated on the screen are 
+mainly yellow. 
+blue and red. 
+green and yellow. 
+red and green.",D,D
+"Which of these does NOT belong in the family of electromagnetic waves? 
+Light 
+Sound 
+Radio waves 
+X-rays",B,B
+"A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is 
+zero 
+g/2 
+g 
+a value between zero and g",D,A
+"A motor and a generator are 
+similar devices 
+very different devices 
+forms of transformers 
+energy sources",A,A
+"As more lamps are connected in parallel in a circuit the current in the power source 
+increases. 
+decreases. 
+remains much the same. 
+Need more information.",A,A
+"Newton’s law of cooling applies to objects that 
+cool 
+warm up 
+Both 
+Neither",C,C
+"The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per 
+day 
+month 
+year 
+None of these for the moon does not rotate about an axis",B,B
+"Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball 
+is mg 
+is greater than mg always 
+may be greater or less than mg 
+is less than mg always",B,C
+"The compressions and rarefactions in sound normally travel 
+in the same direction 
+in opposite directions 
+at right angles to each other 
+None of these",A,A
+"The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is 
+200 W 
+500 W 
+800 W 
+2000 W",B,A
+"The phenomenon of beats is the result of sound 
+destruction 
+interference 
+resonance 
+amplification",B,B
+"Interference is characteristic of 
+sound waves 
+light waves 
+water waves 
+All of these",D,D
+"In either a fission event or a fusion event, a quantity that remains unchanged is the 
+kinetic energy 
+mass 
+number of nucleons 
+binding of nucleons",C,C
+"The magnetic force on a moving charged particle can change the particle's 
+speed 
+direction 
+Both of these 
+Neither of these",B,B
+"If you were to travel at a speed close to the speed of light, you could notice that your own 
+mass changes. 
+pulse decreases. 
+Both of these. 
+Neither of these.",D,A
+"Electricity and magnetism connect to form 
+mass 
+energy 
+ultrahigh-frequency sound 
+light",D,B
+"Sound travels in air by a series of 
+compressions 
+rarefactions 
+Both of these 
+Neither of these",C,C
+"When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal 
+amounts of force 
+accelerations 
+Both 
+Neither",A,A
+"The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is 
+52 
+26 
+24 
+None.",B,B
+"To say that a rose petal is red is to say that it 
+absorbs red 
+reflects red 
+emits red 
+transmits red",B,Reflects red
+"Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity 
+10 times greater 
+100 times greater 
+1000 times greater 
+more than 1000 times greater",B,B
+"When red and blue light are overlapped, the color produced is 
+magenta 
+yellow 
+cyan 
+white",A,A
+"When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is 
+40% 
+50% 
+60% 
+140%",A,A
+"Shock waves are produced by waves of sound 
+overlapping one another 
+constructively interfering 
+moving slower than the source producing them 
+All of these",D,C
+"A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock? 
+3 N 
+5 N 
+8 N 
+None of these",D,A
+"The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is 
+200 J 
+500 J 
+800 J 
+2000 J",D,D
+"A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge? 
+4q. 
+8q. 
+16q. 
+32q.",D,32q
+"The mass of an atom comes mostly from its _ ; and its volume from its _. 
+nucleons; nucleons. 
+electrons; electrons. 
+electrons; nucleons. 
+nucleons; electrons.",D,D
+"The definition of magnetic inclination is the angle between 
+magnetic north and geographic north 
+magnetic north and geographic south 
+the earth’s magnetic field at any point and the vertical 
+the earth’s magnetic field at any point and the horizontal",D,C
+"The pitch of a sound is mostly related to its 
+intensity 
+frequency 
+amplitude 
+speed",B,B
+"As more lamps are connected to a series circuit, the current in the power source 
+increases 
+decreases 
+remains the same 
+None of these",B,Decreases
+"When an element ejects an alpha particle, the mass number of the resulting element 
+reduces by 2 
+reduces by 4 
+increases by 2 
+increases by 4",B,B
+"An electron can be speeded up by 
+an electric field 
+a magnetic field 
+Both of these 
+Neither of these",A,A
+"A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by 
+zero 
+minus 1 
+minus 2 
+plus 1",A,A
+"When an object is set vibrating by a wave that has a matching frequency, what occurs is 
+forced vibration 
+resonance 
+refraction 
+amplitude reduction",B,B
+"The red glow in the neon tube of an advertising sign is a result of 
+fluorescence 
+incandescence 
+de-excitation 
+polarization",C,A
+"At very high speeds, an object appears to an observer at rest to be 
+shorter in the direction of travel. 
+shrunken in all directions. 
+shorter in the direction perpendicular to travel. 
+longer in all directions.",A,A
+"When a wave moves from shallow water to deep water, the 
+frequency decreases, the wavelength increases, and the speed increases 
+frequency does not change, the wavelength increases, and the speed increases 
+frequency does not change, the wavelength decreases, and the speed decreases 
+frequency does not change, the wavelength increases, and the speed decreases",B,B
+"When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is 
+9.8 m/s2 
+more than 9.8 m/s2 
+less than 9.8 m/s2 
+Cannot say unless the speed of throw is given.",A,A
+"Carbon-14 is primarily produced by cosmic radiation in the 
+atmosphere 
+food we eat 
+Earth’s interior 
+fallout of nuclear bomb tests",A,A
+"Chain reactions in a fission reactor are caused by 
+kinetic energy 
+energy conversion 
+mass conversion 
+ejected neutrons",D,D
+"Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is 
+zero 
+practically zero 
+appreciably weaker than at Earth’s surface 
+without a component of force along their circular path",D,D
+"The complementary color of blue is 
+magenta 
+yellow 
+cyan 
+white",B,A
+"The difference between dc and ac in electric circuits is that in dc, charges flow 
+steadily in one direction 
+in one direction 
+to and fro 
+All of these",B,A
+"To receive an electric shock there must be a 
+current in one direction. 
+presence of moisture. 
+high voltage and low body resistance. 
+voltage difference across part or all of your body.",D,D
+"A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is 
+less than 3000 N 
+3000 N 
+greater than 3000 N 
+Need more information",B,B
+"Find the speed of a wave by multiplying its frequency by its 
+period 
+wavelength 
+amplitude 
+None of these",B,B
+"The magnitude of the gravitational force on a satellite is constant if the orbit is 
+parabolic 
+circular 
+elliptical 
+All of these",B,B
+"The impulse–momentum relationship is a direct result of Newton’s 
+first law 
+second law 
+third law 
+law of gravity",B,B
+"A common nuclear fission reactor 
+heats water 
+generates electricity directly 
+gets energy from nothing 
+is a major polluter of the atmosphere",A,A
+"The process of boiling water tends to 
+warm the water 
+cool the water 
+Both 
+Neither",B,A
+"When you scale up an object to 3 times its linear size, the surface area increases by 
+3 and the volume by 9. 
+3 and the volume by 27. 
+9 and the volume by 27. 
+4 and the volume by 8.",C,C
+"If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n) 
+current 
+voltage 
+electric field 
+All of these",D,D
+"Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from 
+inside the spaceship. 
+Earth. 
+Both of these. 
+Neither of these.",B,B
+"The model of light most supported by the photoelectric effect is the 
+wave model 
+particle model 
+Both of these 
+Neither of these",B,B
+"Compared with a fundamental tone, the frequency of its second harmonic is 
+half as much 
+twice as much 
+the same 
+four times as much",B,B
+"A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be 
+48.0 m 
+24.0 m 
+6.00 m 
+3.00 m",C,C
+"During the time an aircraft produces a sonic boom, the aircraft is 
+breaking the sound barrier 
+pulling out of a subsonic dive 
+flying faster than sound 
+All of these",C,D
+"The principal source of Earth’s internal energy is 
+tidal friction 
+gravitational pressure 
+radioactivity 
+geothermal heat",C,C
+"When you brush your hair and scrape electrons from your hair, the charge of your hair becomes 
+positive 
+negative 
+Both of these 
+Neither of these",A,A
+"Astrophysicists are able to identify the elements in the outer layers of a star by studying its 
+Doppler effect. 
+molecular structure. 
+temperature. 
+spectrum.",D,D
+"Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true 
+at speeds near that of light. 
+at everyday low speeds. 
+at all speeds. 
+only approximately.",C,C
+"In his special theory of relativity, Einstein stated that the laws of physics are 
+different in different situations. 
+common sense applied to microscopic and macroscopic things. 
+the same in all frames of reference. 
+the same in all uniformly moving frames of reference.",D,D
+"When an element ejects a beta particle, the atomic number of that element 
+reduces by 1 
+increases by 1 
+reduces by 2 
+increases by 2",B,B
+"The amount of heat transferred to a system can be measured in 
+calories 
+joules 
+Either 
+Neither",C,C
+"Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased 
+speed 
+frequency 
+Both of these 
+Neither of these",B,B
+"Light reflecting from a smooth surface undergoes a change in 
+frequency. 
+wavelength. 
+All of these. 
+None of these.",D,None of these.
+"What Einstein discovered about space and time is that they 
+are separate entities. 
+are parts of one whole. 
+follow an inverse-square law. 
+are special to space travelers.",B,B
+"All parts of a laser beam have the same 
+frequency 
+phase 
+speed 
+All of these",D,A
+"The rotational inertia of an object is greater when most of the mass is located 
+near the rotational axis 
+away from the axis 
+on the rotational axis 
+off center",B,B
+"When small pieces of material are assembled into a larger piece, the combined surface area 
+greatly increases 
+slightly increases 
+decreases 
+is unchanged",C,C
+"A rainbow is the result of light in raindrops that undergoes 
+internal reflection 
+dispersion 
+refraction 
+All of these",D,D
+"In the atomic nucleus, electrical forces tend to 
+hold particles together 
+push particles apart 
+produce orbital motion 
+charge particles",B,B
+"The fact that the acceleration of free fall is the same for all masses is explained by Newton’s 
+first law 
+second law 
+third law 
+law of action–reaction",B,B
+"Compared with radiation from the Sun, terrestrial radiation has a lower 
+wavelength 
+frequency 
+Both 
+Neither",B,A
+"When we speak of time dilation, we mean that time 
+compresses with speed. 
+stretches with speed. 
+is a constant at all speeds. 
+is related to space.",B,B
+"The magnetic field lines about a current-carrying wire form 
+circles 
+radial lines 
+eddy currents 
+energy loops",A,A
+"An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it 
+increases. 
+decreases. 
+remains largely unchanged. 
+Need more information.",B,B
+"A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm? 
+0.50 g 
+0.25 g 
+0.125 g 
+0.0625 g",C,C
+"Boiling and freezing occur when water is subjected to 
+decreased temperatures 
+decreased atmospheric pressure 
+increased temperatures 
+increased atmospheric pressure",B,C
+"When you bend the branch of a tree by hanging on its end, the top side of the branch is under 
+tension. 
+compression. 
+Both. 
+Neither.",A,A
+"A simple and correct way to comprehend satellites orbiting Earth is to view them as 
+balanced between gravitational and centripetal forces. 
+beyond the main pull of Earth gravity. 
+in mechanical equilibrium with a net force of zero. 
+having sufficient tangential velocities to fall around rather than into Earth.",D,C
